@@ -35,3 +35,7 @@ The project must be developed in Java.
 ## Deadline
 
 12th May 2018
+
+## Warning
+
+The project is complicated enough to guarantee that all of your codes will be differ. I will not tolorate any plagiarisms.
