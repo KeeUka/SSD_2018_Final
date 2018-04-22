@@ -1,5 +1,5 @@
 # SSD_2018_Final
-Write a complete snake and ladder game (with additional features).
+Form a group of 2-3 people. Write a complete snake and ladder game (with additional features).
 
 ## Description
 
